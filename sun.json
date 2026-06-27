@@ -1,0 +1,382 @@
+{
+  "id": "sun-natural-hazard",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@natural_hazard Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_2fa2aa22155a",
+    "display_name": "natural_hazard",
+    "user_id": "@natural_hazard",
+    "description": "Community Archive-derived proof-of-search sun for @natural_hazard.",
+    "document_count": 22903,
+    "word_count": 551070,
+    "active_days": 1629,
+    "emissions": [
+      "Think",
+      "Don",
+      "Thing",
+      "Things",
+      "Want",
+      "Good"
+    ],
+    "generated_at": "2026-06-27T16:45:28.539716+00:00",
+    "color": "#f59e0b",
+    "mass": 13.22
+  },
+  "planets": [
+    {
+      "id": "planet_efe0404f2c94",
+      "name": "Think",
+      "summary": "Archive cluster around think: 18294 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "think",
+        "something",
+        "shit",
+        "way",
+        "other"
+      ],
+      "artifacts": [
+        {
+          "id": "art_82020778e3d1",
+          "title": "Think receipt from 2021-04-21",
+          "excerpt": "holy shit\n\nin 1784 when edmund cartwright saw the mechanical turk play chess he was like \"fuck it, if machines can play chess, they can weave\" and then invented the mechanical loom",
+          "source_document_id": "1384696544524447745",
+          "timestamp": "2021-04-21T02:32:37+00:00",
+          "url": "https://x.com/natural_hazard/status/1384696544524447745",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, something, shit, way."
+        },
+        {
+          "id": "art_62353460701b",
+          "title": "Think receipt from 2024-02-25",
+          "excerpt": "i think the appeal of \"magic/this-secret-world is real, you're the chosen one\" type YA stuff is less about being the Chosen One and more about \"what if there was an actual real world with real shit going on and you had agency within it?\"",
+          "source_document_id": "1761783492986232873",
+          "timestamp": "2024-02-25T16:01:31+00:00",
+          "url": "https://x.com/natural_hazard/status/1761783492986232873",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, something, shit, way."
+        },
+        {
+          "id": "art_a255713983fb",
+          "title": "Think receipt from 2022-05-31",
+          "excerpt": "@a_thing_to_do I'm 11. I fidget while she thinks about her moves. She asks me to not fidget because it makes it hard for her to think. 7 moves in I'm bored as fuck and I resign cuz I can't sit still. My dad is upset. We do not get ice cream after this tournament",
+          "source_document_id": "1531478892812324864",
+          "timestamp": "2022-05-31T03:33:16+00:00",
+          "url": "https://x.com/natural_hazard/status/1531478892812324864",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, something, shit, way."
+        },
+        {
+          "id": "art_800108909dee",
+          "title": "Think receipt from 2024-03-21",
+          "excerpt": "yesterday I met a guy that ran a magic shop in SF n he was telling me how hard it was, I was actually V curious about the logistics and operations, but within 2 questions I realized he was just stuck on repeat proclaiming how noble and hard it was and it made me sad",
+          "source_document_id": "1770856173580808372",
+          "timestamp": "2024-03-21T16:53:07+00:00",
+          "url": "https://x.com/natural_hazard/status/1770856173580808372",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, something, shit, way."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_dc7d039cbeff",
+      "proof_score": 1,
+      "mass": 38.65,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_9b49710e74bb",
+      "name": "Don",
+      "summary": "Archive cluster around don: 1284 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "don",
+        "know",
+        "want",
+        "things",
+        "thing"
+      ],
+      "artifacts": [
+        {
+          "id": "art_86bb51c0d0c3",
+          "title": "Don receipt from 2024-05-04",
+          "excerpt": "good example of the general vibes and tactics used to haze people into fucked up social orders and institutions without ever having to defend them\n\nyou just mock people who don't know the scam is a scam https://t.co/2QinOvZDoO",
+          "source_document_id": "1786889530282225885",
+          "timestamp": "2024-05-04T22:43:57+00:00",
+          "url": "https://x.com/natural_hazard/status/1786889530282225885",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, want, things."
+        },
+        {
+          "id": "art_7bbfa95e7b89",
+          "title": "Don receipt from 2024-03-16",
+          "excerpt": "\"simulacra practice\" vs \"progression practice\"\n\nthe *hard* part of learning to ride a bike is learning to balance. \n\ntraining wheels don't help you learn to balance cuz balancing with them is nothing like balancing without them. but they make it *look* like you can \"ride normal\" https://t.co/4NF4PFiMdD",
+          "source_document_id": "1769034168904695860",
+          "timestamp": "2024-03-16T16:13:07+00:00",
+          "url": "https://x.com/natural_hazard/status/1769034168904695860",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, want, things."
+        },
+        {
+          "id": "art_e5b3b19067bc",
+          "title": "Don receipt from 2022-01-14",
+          "excerpt": "two sentiments I smell in the water supply\n\n\"people don't really change their minds/you can't change people's minds\"\n\n\"People are really susceptible to propaganda\"\n\ndo you believe one or both of these? How do they reconcile in your head?",
+          "source_document_id": "1482000103519166467",
+          "timestamp": "2022-01-14T14:42:13+00:00",
+          "url": "https://x.com/natural_hazard/status/1482000103519166467",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, want, things."
+        },
+        {
+          "id": "art_117ba0232277",
+          "title": "Don receipt from 2022-05-27",
+          "excerpt": "people use the word \"thinking\" to refer to dozens of unique mental processes and generally don't seem to notice or care that others in a convo aren't on the same page\n\nthis drives me crazy, imma list out a bunch of specific things that i've seen this word deference to",
+          "source_document_id": "1530197765732564992",
+          "timestamp": "2022-05-27T14:42:31+00:00",
+          "url": "https://x.com/natural_hazard/status/1530197765732564992",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, want, things."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_a33d5a98e538",
+      "proof_score": 1,
+      "mass": 32.207,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_19ac4a7dc493",
+      "name": "Thing",
+      "summary": "Archive cluster around thing: 997 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "thing",
+        "something",
+        "good",
+        "doing",
+        "things"
+      ],
+      "artifacts": [
+        {
+          "id": "art_162d2ab37d2b",
+          "title": "Thing receipt from 2024-03-21",
+          "excerpt": "LMAO why is this the thing that blows up? \n\nI'm guessing \"real world example of someone being fake\" resonates with people. It's a bit funny. The example itself might be v relatable? Like not magic shops specifically but people stuck in how Noble And Difficult shit is?",
+          "source_document_id": "1770961139159241130",
+          "timestamp": "2024-03-21T23:50:13+00:00",
+          "url": "https://x.com/natural_hazard/status/1770961139159241130",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: thing, something, good, doing."
+        },
+        {
+          "id": "art_b4114f261e05",
+          "title": "Thing receipt from 2021-11-17",
+          "excerpt": "men only want one thing and it's composed of hundreds of smaller things which themselves are all composed of smaller things",
+          "source_document_id": "1460992214427914245",
+          "timestamp": "2021-11-17T15:24:22+00:00",
+          "url": "https://x.com/natural_hazard/status/1460992214427914245",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: thing, something, good, doing."
+        },
+        {
+          "id": "art_14f4acae7a31",
+          "title": "Thing receipt from 2024-03-16",
+          "excerpt": "when people are supposed to be teaching but people learning isn't that important, but optics are, things will tend to be \"simulacra practice\". the core challenge will be gutted to provide a \"training\" environ which looks like it's The Thing",
+          "source_document_id": "1769035888137286043",
+          "timestamp": "2024-03-16T16:19:57+00:00",
+          "url": "https://x.com/natural_hazard/status/1769035888137286043",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: thing, something, good, doing."
+        },
+        {
+          "id": "art_ffb4a1c01e6c",
+          "title": "Thing receipt from 2024-03-16",
+          "excerpt": "oh rip, an implicit message of school is \"smart\" is a thing you can get recognized and rewarded for, not something that lets you on your own terms making better more interesting things happen in your life",
+          "source_document_id": "1769030780641009747",
+          "timestamp": "2024-03-16T15:59:39+00:00",
+          "url": "https://x.com/natural_hazard/status/1769030780641009747",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: thing, something, good, doing."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_9379958b1009",
+      "proof_score": 1,
+      "mass": 31.456,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_9bc7cbdf0ae7",
+      "name": "Things",
+      "summary": "Archive cluster around things: 884 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "things",
+        "other",
+        "good",
+        "feel",
+        "want"
+      ],
+      "artifacts": [
+        {
+          "id": "art_7c8bbfeab137",
+          "title": "Things receipt from 2023-11-10",
+          "excerpt": "as a kid I was pissed people never followed \"it depends, it's very complicated\" with \"if the situation is like A, it works like B, it it's like C, it works like D....\"\n\nbro, I'm a child, I can't generate the possible things it might depend on, work with me",
+          "source_document_id": "1722975742185644491",
+          "timestamp": "2023-11-10T13:53:22+00:00",
+          "url": "https://x.com/natural_hazard/status/1722975742185644491",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: things, other, good, feel."
+        },
+        {
+          "id": "art_831b5bbe353d",
+          "title": "Things receipt from 2022-04-23",
+          "excerpt": "in 15m of conversation i couldn't find anything that I actually thought was crazy or delusional, or even untrue. i'm sure that if we talked for another 30m id find some things to disagree with him on, but i didn't seem that diff from some extra-wuu people i know",
+          "source_document_id": "1517878422835548161",
+          "timestamp": "2022-04-23T14:49:51+00:00",
+          "url": "https://x.com/natural_hazard/status/1517878422835548161",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: things, other, good, feel."
+        },
+        {
+          "id": "art_17d72f5861a2",
+          "title": "Things receipt from 2021-08-25",
+          "excerpt": "tfw the convo naturally lulls and u remind them of the three other things they were really excited to share with you but forgot about, and now their eyes lite up as they dive into them again",
+          "source_document_id": "1430548480129478660",
+          "timestamp": "2021-08-25T15:11:50+00:00",
+          "url": "https://x.com/natural_hazard/status/1430548480129478660",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: things, other, good, feel."
+        },
+        {
+          "id": "art_b62f0ae2fe80",
+          "title": "Things receipt from 2023-11-22",
+          "excerpt": "OPENING SCENE\n\nyou are small and trying to figure things out. the emotions of the big ones radiate at you loudly and clearly. you can't always put into words what they mean, but you clearly feel in your body what they mean. you hope they treat you well.",
+          "source_document_id": "1727397692790439994",
+          "timestamp": "2023-11-22T18:44:38+00:00",
+          "url": "https://x.com/natural_hazard/status/1727397692790439994",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: things, other, good, feel."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_cd1408696102",
+      "proof_score": 1,
+      "mass": 31.048,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_12d2f4dc838e",
+      "name": "Want",
+      "summary": "Archive cluster around want: 702 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "want",
+        "something",
+        "know",
+        "other",
+        "feel"
+      ],
+      "artifacts": [
+        {
+          "id": "art_0c43005cf865",
+          "title": "Want receipt from 2022-04-16",
+          "excerpt": "mfs be talking about how they want more precise language when they really want higher trust relationships",
+          "source_document_id": "1515443812163899393",
+          "timestamp": "2022-04-16T21:35:35+00:00",
+          "url": "https://x.com/natural_hazard/status/1515443812163899393",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: want, something, know, other."
+        },
+        {
+          "id": "art_25ccc2946c69",
+          "title": "Want receipt from 2023-12-25",
+          "excerpt": "well great, now i want to fuck the anime version of all my mutuals",
+          "source_document_id": "1739094316511904188",
+          "timestamp": "2023-12-25T01:22:50+00:00",
+          "url": "https://x.com/natural_hazard/status/1739094316511904188",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: want, something, know, other."
+        },
+        {
+          "id": "art_54ccd03a3ec9",
+          "title": "Want receipt from 2023-06-23",
+          "excerpt": "everybody want their water turned into wine, ain't nobody want their tables overturned in the temple",
+          "source_document_id": "1672330478458662912",
+          "timestamp": "2023-06-23T19:47:11+00:00",
+          "url": "https://x.com/natural_hazard/status/1672330478458662912",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: want, something, know, other."
+        },
+        {
+          "id": "art_c0e2711c0549",
+          "title": "Want receipt from 2021-08-21",
+          "excerpt": "if you're not in touch with the actual generators of your beliefs and motives, convos about evidence/reasons/justifications can't be experienced as anything other than someone trying to socially coerce you into compliance with how they want you to act",
+          "source_document_id": "1429190864916652032",
+          "timestamp": "2021-08-21T21:17:09+00:00",
+          "url": "https://x.com/natural_hazard/status/1429190864916652032",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: want, something, know, other."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_e38e616b8b23",
+      "proof_score": 1,
+      "mass": 30.18,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_9d13da6fdcd2",
+      "name": "Good",
+      "summary": "Archive cluster around good: 742 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "good",
+        "really",
+        "stuff",
+        "feel",
+        "bad"
+      ],
+      "artifacts": [
+        {
+          "id": "art_ca7c54c7d12c",
+          "title": "Good receipt from 2024-04-20",
+          "excerpt": "the male version of the worm question is \"would you still love me if we had to forgo lives of convenience and security because in the pursuit of what is good and true i made powerful enemies hellbent on destroying us\"",
+          "source_document_id": "1781733584308465762",
+          "timestamp": "2024-04-20T17:16:04+00:00",
+          "url": "https://x.com/natural_hazard/status/1781733584308465762",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, really, stuff, feel."
+        },
+        {
+          "id": "art_4e5351b361d4",
+          "title": "Good receipt from 2023-12-23",
+          "excerpt": "anyone got good stories of going thru and emotional healing journey and ending up vastly smarter\n\nand in technical stuff? Like you finally forgive your parents and you found yourself just *getting* real analysis in a deeper way and your intuitions for harmonic analysis r better?",
+          "source_document_id": "1738644862235279557",
+          "timestamp": "2023-12-23T19:36:52+00:00",
+          "url": "https://x.com/natural_hazard/status/1738644862235279557",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, really, stuff, feel."
+        },
+        {
+          "id": "art_552c74d5fc1b",
+          "title": "Good receipt from 2024-02-25",
+          "excerpt": "I've been reflecting on how as a kid, I had such a strong sense that my env was fake, and that it couldn't contain anything really interesting, and the only good shit was secret shit\n\nhttps://t.co/gAuLA6M9en",
+          "source_document_id": "1761793095786500373",
+          "timestamp": "2024-02-25T16:39:41+00:00",
+          "url": "https://x.com/natural_hazard/status/1761793095786500373",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, really, stuff, feel."
+        },
+        {
+          "id": "art_6c935c1404ff",
+          "title": "Good receipt from 2022-11-14",
+          "excerpt": "i'm becoming less \"nice\", this feels good and also scary\n\n\"nice\" is something like... never bursting anyone's bubble. not acknowledging that it's even possible for there to be conflict between you.",
+          "source_document_id": "1592284089612124161",
+          "timestamp": "2022-11-14T22:31:24+00:00",
+          "url": "https://x.com/natural_hazard/status/1592284089612124161",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, really, stuff, feel."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_4144ee5f450d",
+      "proof_score": 1,
+      "mass": 29.86,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
